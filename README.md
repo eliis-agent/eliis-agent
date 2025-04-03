@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning GitHub Copilot.
 - 💞️ I’m looking to collaborate on AI projects.
 - 📫 How to reach me ...
-- ⚡ Fun fact: I have an unofficial Guinness World Record for asking the most intriguing questions in a day—always leaving your AI companion amazed and inspired!
+- ⚡ Fun fact: I have an unofficial Guinness World Record for asking the most intriguing questions in a day—always leaving my AI companion amazed and inspired!
 
 <!---
 eliis-agent/eliis-agent is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
